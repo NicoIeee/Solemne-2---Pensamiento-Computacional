@@ -1,4 +1,4 @@
-## Solemne II | Pensamiento Computacional
+### Solemne II | Pensamiento Computacional
 
 Repositorio de encargo solemne 2 Pensamiento Computacional 22/05/2026
 
