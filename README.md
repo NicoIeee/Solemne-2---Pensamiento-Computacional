@@ -57,15 +57,10 @@ Wave combina dos capas de relación con el usuario. Por un lado, la interactivid
 ### Flujo de datos
 
 | Datos de Entrada (Inputs) | Procesamiento y Transformación | Respuesta Visual (Outputs) |
-
 | ------------- |:-------------:| -----:|
-
-| MouseX, MouseY | La función map() transforma las coordenadas de píxeles en cantidad de celdas y en factores de color. La grilla se vuelve más densa o dispersa y el fondo cambia entre tonos fríos y tonos calientes. |
-
-Clic del Usuario: El evento mousePressed() causa que se genere una onda con posición fija y velocidad aleatoria. Nace una onda expansiva desde el punto exacto donde se presionó con el mouse. |
-
-| Cálculo interno (dist y abs) | El algoritmo mide la distancia entre las celdas o el texto y el borde de las ondas activas. Las celdas y el texto central se iluminan al ser tocados por la onda. |
-
-| Variables Aleatorias | Funciones random() alteran constantemente el tamaño individual y la tonalidad de cada celda por frame. La grilla adquiere una textura cambiante y orgánica |
+| MouseX, MouseY | La función map() transforma las coordenadas de píxeles en cantidad de celdas y en factores de color. | La grilla se vuelve más densa o dispersa y el fondo cambia entre tonos fríos y tonos calientes. |
+| Clic del Usuario | El evento mousePressed() causa que se genere una onda con posición fija y velocidad aleatoria. | Nace una onda expansiva desde el punto exacto donde se presionó con el mouse. |
+| Cálculo interno (dist y abs) | El algoritmo mide la distancia entre las celdas o el texto y el borde de las ondas activas. | Las celdas y el texto central se iluminan al ser tocados por la onda. |
+| Variables Aleatorias | Funciones random() alteran constantemente el tamaño individual y la tonalidad de cada celda por frame. | La grilla adquiere una textura cambiante y orgánica |
 
 ![alt text](./SOLEMNEFLUJO.png "Diagrama de flujo")
