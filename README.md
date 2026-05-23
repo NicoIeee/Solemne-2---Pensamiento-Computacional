@@ -1,9 +1,8 @@
-### Solemne II | Pensamiento Computacional
-
-Repositorio de encargo solemne 2 Pensamiento Computacional 22/05/2026
-
-### Proyecto Wave
+## Proyecto Wave
 Hecho por Nicole Forné
+
+### Solemne II | Pensamiento Computacional
+Repositorio de encargo solemne 2 Pensamiento Computacional 22/05/2026
 
 # DESCRIPCION OBJETIVA
 
