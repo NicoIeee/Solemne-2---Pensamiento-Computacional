@@ -40,7 +40,7 @@ Hecha en 1966 también por Victor Vasarely, su composición, aunque no buscaba s
 
 Hecha en 2024 por Dmitri Cherniak, composición que dio paso a la selección de la paleta cromática que se utilizó y la jerarquía visual.
 
-INPUTS, OUTPUTS, SISTEMA
+# INPUTS, OUTPUTS, SISTEMA
 
 [Link a p5.js editable de Wave](https://editor.p5js.org/NicoIe/sketches/rlvtOq8XY)
 
