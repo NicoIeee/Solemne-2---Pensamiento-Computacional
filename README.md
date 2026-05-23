@@ -21,24 +21,26 @@ Para este proyecto se utilizaron repeticiones de patrones y proporciones, consid
 
 # REFERENTES
 
-- foto 1 // Cassiopée II NB
+![alt text](./Referente1.jpg "Cassiopée II NB")
 
 ### _Cassiopée II NB_
 
 Hecha en 1958 por Victor Vasarely, sirvió para dar paso a la idea de crear una división entre la paleta cromatica.
 
-- foto 2 // Quasar
+[Link a obra, no pude descargar la imagen.](https://www.wikiart.org/en/victor-vasarely/quasar-1966)
 
 ### _Quasar_
 
 Hecha en 1966 también por Victor Vasarely, su composición, aunque no buscaba ser igual, permitió jugar con diferentes tonalidades y generar una transición entre las tonalidades frias y calientes.
 
-- foto 3 // the raptue
+![alt text](./Referente3.jpg "El rapto")
 
 ### _El rapto_
 
-Hecha en 2024 por Dmitri Cherniak, composición que dio paso a la selección a la paleta cromatica que se utilizo.
+Hecha en 2024 por Dmitri Cherniak, composición que dio paso a la selección a la paleta cromatica que se utilizo y la jerarquia visual.
 # INPUTS, OUTPUTS, SISTEMA
+
+[Link a p5.js editable de Wave](https://editor.p5js.org/NicoIe/sketches/rlvtOq8XY)
 
 ### Reglas del sistema
 El lienzo funciona como una grilla geométrica interactiva que se divide en columnas dinámicas, si el usuario mueve el cursor por debajo de la mitad de la pantalla, la grilla es alterada de un estado azulado a uno anaranjado. Además, cada clic genera una onda expansiva autónoma con velocidad propia que viaja por el espacio, autodestruyéndose al salir de los límites para proteger el rendimiento del programa.
@@ -54,6 +56,4 @@ Wave combina dos capas de relación con el usuario. Por un lado, la interactivid
 | Cálculo Interno (dist y abs) | El algoritmo mide la distancia entre las celdas o el texto y el borde de las ondas activas. | Las celdas y el texto central se iluminan al ser tocados por la onda. |
 | Variables Aleatorias |Funciones random() alteran constantemente el tamaño individual y la tonalidad de cada celda por frame. | La grilla adquiere una textura cambiante y organica. |
 
-- diagrama de flujo
-
-[Link p5.js](https://editor.p5js.org/NicoIe/sketches/rlvtOq8XY)
+![alt text](./SOLEMNEFLUJO.png "Diagrama de flujo")
